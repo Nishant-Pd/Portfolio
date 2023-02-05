@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00ADB5;
+}
+  
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #00ADB5;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #00ADB5;
+    color: white;
+}
+
+.portfolio-Img{
+    width: 360px;
+}
+.MyPic{
+    width: 285px;
+    border-radius: 5%;
+}
+.call-back{
+    width: 250px;
+}
+.CompanyLogo{
+    width: 75px;
+}
+.linkedin{
+    width: 25px;
+}
+.facebook{
+    width: 25px;
+}
+.insta{
+    width: 25px;
+}
+.twitter{
+    width: 25px;
+}
+
+.intro{
+    background-color: #00ADB5;
+    margin: 0%;
+    padding: 2%;
+    color: white;
+}
+.information{
+    color:black;
+    background-color: #EEEEEE;
+    margin: 0%;
+    padding: 5%;
+}
+.content{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: large;
+    /* font-weight: 450; */
+    margin: 2%;
+    padding: 3%;
+    background-color: #EEEEEE;
+    color: black;
+}
+h1{
+    color: #071A52;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: white;
+}
+h3{
+    color: #FC5185;
+    font-size: 20px;
+    font-weight: 500;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #333;
+    border-width: 10px;
+    width: 15%;
+}
+.connect{
+    background-color: #333;
+    color: white;
+}
+.certify{
+    border:2px solid black;
+    width: fit-content;
+}
+.cloud{
+    border:2px solid black;
+    width:fit-content;
+    border-collapse: collapse;
+}
+.table{
+    margin: 5%;
+    padding: 0%;
+}
